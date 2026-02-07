@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bodan
 
-<!--
-**bodan4/bodan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer building end-to-end web applications, primarily in JavaScript.
 
-Here are some ideas to get you started:
+## About me
+I focus on building real, functional products: real-time apps, interactive web experiences, and small multiplayer or system-driven projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Frontend: JavaScript, HTML, CSS, TailwindCSS, TypeScript, React.js, Phaser.js, Three.js
+- Backend: Node.js, Express, WebSockets
+- Data: SQL, MongoDB
+- Tools: Git, Linux
+
+## Projects
+- Chattie — Real-time chat application (Node.js, WebSockets)
